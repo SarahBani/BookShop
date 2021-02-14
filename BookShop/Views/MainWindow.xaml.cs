@@ -1,5 +1,4 @@
-﻿using BookShop.ViewModels;
-using System.Windows;
+﻿using System.Windows;
 
 namespace BookShop.Views
 {
