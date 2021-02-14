@@ -1,5 +1,5 @@
 ﻿BookShop
-
+1.0.0.0
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
 H:\Project\Aerospace\BookShop\BookShop\App.xaml
 21536121586
 
-15-1525545246
+16312698824
 193-455720648
 Styles.xaml;Views\MainWindow.xaml;
 

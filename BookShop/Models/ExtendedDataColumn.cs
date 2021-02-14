@@ -15,7 +15,6 @@ namespace BookShop.Models
 
         public ColumnType ColumnType { get; set; }
 
-
         #endregion /Properties
 
         #region Constructors

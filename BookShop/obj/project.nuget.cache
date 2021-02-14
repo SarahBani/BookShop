@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMwFqOMxQZy6o/HRnaQHMt0dRj9FXgG3lHY4ax0Flfz2cb89py+BegSo5mLHoZdKE2F+rHe83jrd/QT7xUdKGQ==",
+  "success": true,
+  "projectFilePath": "H:\\Project\\Aerospace\\BookShop\\BookShop\\BookShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sarah\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

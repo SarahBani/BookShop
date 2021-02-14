@@ -20,3 +20,5 @@ H:\Project\Aerospace\BookShop\BookShop\obj\Debug\netcoreapp3.0\BookShop.Assembly
 H:\Project\Aerospace\BookShop\BookShop\obj\Debug\netcoreapp3.0\BookShop.csproj.CopyComplete
 H:\Project\Aerospace\BookShop\BookShop\obj\Debug\netcoreapp3.0\BookShop.dll
 H:\Project\Aerospace\BookShop\BookShop\obj\Debug\netcoreapp3.0\BookShop.pdb
+H:\Project\Aerospace\BookShop\BookShop\obj\Debug\netcoreapp3.0\BookShop.csproj.CoreCompileInputs.cache
+H:\Project\Aerospace\BookShop\BookShop\obj\Debug\netcoreapp3.0\BookShop.genruntimeconfig.cache

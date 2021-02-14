@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:i="clr-namespace:Microsoft.Xaml.Behaviors;assembly=Microsoft.Xaml.Behaviors"
+        xmlns:vm="clr-namespace:BookShop.ViewModels"
         xmlns:helper="clr-namespace:BookShop.Helper"
         mc:Ignorable="d"       
         Title="Book Shop" WindowState ="Maximized" MinWidth ="500" MinHeight ="500" FontFamily="Times New Roman" FontSize="25" 
@@ -19,6 +20,9 @@
             </VisualBrush.Visual>
         </VisualBrush>
     </Window.Resources>
+    <Window.DataContext>
+        <vm:MainViewModel></vm:MainViewModel>
+    </Window.DataContext>
 
     <Grid Background="{StaticResource MyVisualBrush}">
 
